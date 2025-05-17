@@ -15,17 +15,17 @@ const blogData = [
   {
     title: 'Travel the world!!!!!',
     category: 'Travel',
-    image: '/p1.jpg',
+    image: '/pic1.jpg',
   },
   {
     title: 'Art!!!!!!!!!!!!!',
     category: 'Art',
-    image: '/p2.jpg',
+    image: '/pic2.jpg',
   },
   {
     title: 'Food is Art!!!!',
     category: 'Food',
-    image: '/p3.jpg',
+    image: '/pic3.jpg',
   },
 ];
 
